@@ -2,12 +2,12 @@
 //
 
 #include <iostream>
-#include <Windows.h>
+//#include <Windows.h>
 
 int main()
 {
-    SetConsoleCP(1251);
-    SetConsoleOutputCP(1251);
+   // SetConsoleCP(1251);
+    //SetConsoleOutputCP(1251);
     
     //Task 1
     double R0, R1, R2, R3;
